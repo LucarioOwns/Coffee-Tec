@@ -3,9 +3,63 @@
     "main": {
       "type": "main-page",
       "settings": {}
+    },
+    "164065182084c2eeba": {
+      "type": "testimonial-slider",
+      "blocks": {
+        "4d562644-0dc6-418a-acc0-2a1e6d918520": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore consequuntur veritatis beatae recusandae tempore libero? <\/p>",
+            "name": "Darren",
+            "image": "shopify:\/\/shop_images\/user_4.jpg"
+          }
+        },
+        "356d7ea1-7a2a-47b5-8b5b-b97317b34ce7": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore consequuntur veritatis beatae recusandae tempore libero? <\/p>",
+            "name": "Martin",
+            "image": "shopify:\/\/shop_images\/user_3.jpg"
+          }
+        },
+        "92d6766d-74be-416f-a32b-6ac01f2e433d": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore consequuntur veritatis beatae recusandae tempore libero? <\/p>",
+            "name": "Mike",
+            "image": "shopify:\/\/shop_images\/user_1.jpg"
+          }
+        },
+        "d912d439-ad02-43e9-948a-824860ab45fb": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore consequuntur veritatis beatae recusandae tempore libero? <\/p>",
+            "name": "Kate",
+            "image": "shopify:\/\/shop_images\/user_2.jpg"
+          }
+        },
+        "21d71763-c471-4c8c-a467-f318506f28ef": {
+          "type": "testimonial",
+          "settings": {
+            "text": "<p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore consequuntur veritatis beatae recusandae tempore libero? <\/p>",
+            "name": "Linda",
+            "image": "shopify:\/\/shop_images\/user_5.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "4d562644-0dc6-418a-acc0-2a1e6d918520",
+        "356d7ea1-7a2a-47b5-8b5b-b97317b34ce7",
+        "92d6766d-74be-416f-a32b-6ac01f2e433d",
+        "d912d439-ad02-43e9-948a-824860ab45fb",
+        "21d71763-c471-4c8c-a467-f318506f28ef"
+      ],
+      "settings": {}
     }
   },
   "order": [
-    "main"
+    "main",
+    "164065182084c2eeba"
   ]
 }
