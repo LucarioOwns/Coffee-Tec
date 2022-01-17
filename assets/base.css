@@ -2363,3 +2363,17 @@ details-disclosure > details {
       text-align: center;
     }
 
+    .coffee-info {
+      width: 100%;
+    }
+
+    .coffee-indicator {
+      display: flex;
+    }
+
+    .coffee-indicator svg{
+      max-height: 35px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      max-width: 35px;
+    }
